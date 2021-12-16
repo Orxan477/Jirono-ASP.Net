@@ -215,7 +215,6 @@ C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Raz
 C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
 C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
 C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Razor\Views\Faq\Index.cshtml.g.cs
-C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Razor\Views\Features\FeatureSingle.cshtml.g.cs
 C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Razor\Views\Features\Index.cshtml.g.cs
 C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -228,3 +227,4 @@ C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Jir
 C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Jirono.dll
 C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Jirono.pdb
 C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Jirono.genruntimeconfig.cache
+C:\Users\Orxan477\source\repos\Jirono-asp.net\Jirono\obj\Debug\netcoreapp3.1\Razor\Views\Features\FeatureSingle.cshtml.g.cs
