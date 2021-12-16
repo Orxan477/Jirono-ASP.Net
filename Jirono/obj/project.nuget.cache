@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yOj1SLnKhPMMDlKJY2j4k5USWw7xygYJMUWH5nBoDulVFlE1fdYLev7SghRhuHr2cvYuC8NvT5cMg7ZU6wL5Jw==",
+  "dgSpecHash": "RvDojxyMvzK9Vb+gSnZ/7Uqwuq1wcf2yGpWVp1QaqY4vU+U5VEc+2+3oXZaFApyXPDXKcHC6itu6Zk6Eo1vIFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orxan477\\source\\repos\\Jirono\\Jirono\\Jirono.csproj",
+  "projectFilePath": "C:\\Users\\Orxan477\\source\\repos\\Jirono-asp.net\\Jirono\\Jirono.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orxan477\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Orxan477\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
